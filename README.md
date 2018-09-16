@@ -13,4 +13,4 @@ Modbus是一种串行通信协议，是Modicon公司（现在的施耐德电气 
 ​node.js 的Modbus-serial库：https://www.npmjs.com/package/modbus-serial</br>  
 将Modbus返回值转换为十进制浮点数：https://blog.csdn.net/qq_19286023/article/details/72651568?locationNum=16&fps=1 </br> 
 node.js 的串口库serialport：https://www.npmjs.com/package/serialport  </br>
-安装Modbus-serial库的注意事项 我是安装了vs2012之后才安装成功的。  
+安装Modbus-serial库的注意事项:我是安装了vs2012之后才安装成功的。  
