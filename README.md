@@ -1,4 +1,3 @@
-# js
 使用Node js环境，读取Modbus-RTU设备数据
 1、什么是Modbus
   Modbus是一种串行通信协议，是Modicon公司（现在的施耐德电气 Schneider Electric）于1979年为使用可编程逻辑控制器（PLC）通信而发表。Modbus已经成为工业领域通信协议的业界标准（De facto），并且现在是工业电子设备之间常用的连接方式。（解释来自百度百科）
